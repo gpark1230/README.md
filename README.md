@@ -5,7 +5,7 @@ I'm currently in the process of obtaining my CompTIA Security+ certificate, taki
 * 📚 I'm a Computer Science student at Boston University with a minor in Business
 * 💾 Recently worked as a IT Support Intern at New Jigu Trading Corp
 * 🌱 Practicing LeetCode and learning Python, Linux (Bash/Shell Scripting), and SQL whenever I get the chance
-* 👨🏻‍💻 Currently designing an interactive website for National Debt Law, a debt insurance company other projects available here on [GitHub](https://github.com/gavinpark123)
+* 👨🏻‍💻 Currently designing an interactive website for National Debt Law, a debt insurance company other projects available here on [GitHub](https://github.com/gpark1230)
 * 🥋 Future Goals: Become a master in problem solving in Python, Linux, and SQL and share my knowledge with like-minded coders
 * ⛹🏻‍♂️ Fun Fact: I have the same birthday as Lebron James (I am his reincarnation 😁)
 ## My Skills 🚀
@@ -13,9 +13,9 @@ Below are the some of the relevant languages and technical tools I utilize in my
 Python | C | x86 Assembly | Unix | Java | SQL | SQLite | Javascript | Node.js | React | HTML | CSS | Cooking ❌
 ## How to Reach Me 📩
 <p>
-  <a href="https://www.linkedin.com/in/gavin-park-627005221">
+  [LinkedIn](https://linkedin.com/in/gavin-park-627005221)
   </a>  
-  <a href="https://www.instagram.com/gav.park">
+  [Instagram](https://www.instagram.com/gav.park)
   </a>
 </p>
 
