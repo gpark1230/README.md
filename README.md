@@ -14,10 +14,8 @@ Python | C | x86 Assembly | Unix | Java | SQL | SQLite | Javascript | Node.js | 
 ## How to Reach Me 📩
 <p>
   <a href="https://www.linkedin.com/in/gavin-park-627005221">
-    <img src="images/linkedin.png" alt="My LinkedIn Profile" width="125" height="33">
   </a>  
   <a href="https://www.instagram.com/gav.park">
-    <img src="images/ig.png" alt="My Instagram" width="125" height="33">
   </a>
 </p>
 
