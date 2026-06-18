@@ -12,7 +12,7 @@ My goal is to become a Cloud Security and Identity Engineer by designing project
 📍 New York
 I'm passionate about Identity Security, Cloud Security, and Security Engineering. I enjoy designing enterprise-scale environments that replicate how modern organizations manage identities, secure cloud infrastructure, and defend against cyber threats.
 I enjoy designing projects that combine Microsoft Entra ID, Active Directory, Azure, AWS, PowerShell automation, SIEM, and Zero Trust principles.
-Technologies include:
+###Technologies include:
 • Microsoft Entra ID
 • Hybrid Active Directory
 • Azure IAM
