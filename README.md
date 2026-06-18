@@ -5,7 +5,7 @@ I build enterprise cybersecurity labs that simulate real-world environments, foc
 
 My goal is to become a Cloud Security and Identity Engineer by designing projects that mirror modern enterprise infrastructure and security operations.
 
-## About Me 🙋🏻‍♂️
+## 🙋🏻‍♂️ About Me
 🎓 B.A. in Computer Science, Business Minor, Boston University
 
 🛡️ Cybersecurity Operations Associate at KLCP
@@ -54,7 +54,7 @@ Technologies include:
 
 • Zero Trust Architecture
 
-## Technical Skills
+## 🛠️ Technical Skills
 ### Identity & Security
 • Microsoft Entra ID
 • Microsoft Sentinel
