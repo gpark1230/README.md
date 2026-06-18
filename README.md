@@ -1,20 +1,66 @@
 # Hi there 👋 I'm Gavin 🏀
-Welcome to my GitHub profile! I'm an ambitious coder looking to break into the cyberseucrity industry, and am excited to explore and familiarize myself with the boundless world of tech. I'm very passionate about the problem-solving nature of coding, and I intend to make some big changes to the world of technology. I'm at the start of an exciting path, and I look forward to where this journey will take me! 📈
+Cybersecurity Professional | Identity & Access Management | Cloud Security | Security Operations
+I build enterprise cybersecurity labs focused on Identity & Access Management (IAM), Microsoft Entra ID, Azure, Active Directory, PowerShell automation, SIEM, and cloud security.
+My goal is to become a Cloud Security / IAM Engineer by designing projects that mirror real enterprise environments.
+
 ## About Me 🙋🏻‍♂️
-I'm currently in the process of obtaining my CompTIA Security+ certificate, taking every opportunity I get to challenge myself and broaden my knowledge of coding. I enjoy coding for not only the end product, but for the effort and practice it takes to get there! I love breaking a coding challenge down step by step and eventually coming to the inevitable solution! 👾
-* 📚 I graduated with a BA in Computer Science student at Boston University with a minor in Business
-* 💾 Recently worked as a IT Support Intern at New Jigu Trading Corp
-* 🌱 Practicing LeetCode and learning Python, Linux (Bash/Shell Scripting), and SQL whenever I get the chance
-* 🥋 Future Goals: Become a master in problem solving in Python, Linux, and SQL and share my knowledge with like-minded coders
-* ⛹🏻‍♂️ Fun Fact: I have the same birthday as Lebron James (I am his reincarnation 😁)
-## My Skills 🚀
-Below are the some of the relevant languages and technical tools I utilize in my work:  
-Python | C | x86 Assembly | Unix | Java | SQL | SQLite | Javascript | Node.js | React | HTML | CSS | Cooking ❌
-## How to Reach Me 📩
-<p>
-  <a href="https://linkedin.com/in/gavin-park-627005221">LinkedIn</a><br>
-  <a href="https://www.instagram.com/gav.park">Instagram</a>
-</p>
+🎓 B.A. in Computer Science, Business Minor, Boston University
+🛡️ Cybersecurity Operations Associate at KLCP
+🔒 CompTIA Security+
+☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+🔄 Microsoft Identity and Access Administrator (SC-300) — In Progress
+📍 New York
+I'm passionate about Identity Security, Cloud Security, Security Engineering, and building enterprise-scale security environments that replicate real-world organizations.
+I enjoy designing projects that combine Microsoft Entra ID, Active Directory, Azure, AWS, PowerShell automation, SIEM, and Zero Trust principles.
+
+## 🚧 Currently Building
+### Enterprise Identity & Access Management Lab
+Building a real-world enterprise IAM and cloud security environment featuring Microsoft Entra ID, Active Directory, Azure, AWS, Okta, Microsoft Sentinel, and PowerShell automation.
+
+## Technical Skills
+### Security
+• Microsoft Entra ID
+• Microsoft Sentinel
+• CrowdStrike Falcon
+• Splunk
+• Wireshark
+• Nmap
+• OpenVAS
+• WireGuard
+• MITRE ATT&CK
+• NIST CSF
+• RBAC
+• MFA
+• Conditional Access
+• Identity Governance
+• Vulnerability Management
+
+### Cloud
+• Microsoft Azure
+• AWS
+• Microsoft 365
+
+### Operating Systems
+• Windows
+• Linux
+• macOS
+
+### Programming
+• Python
+• PowerShell
+• Bash
+• SQL
+• Java
+• C
+
+### Networking
+• TCP/IP
+• DNS
+• DHCP
+• VPN
+• Firewalls
+• Routing
+• Switching
 
 Email: [gpark1230@gmail.com](gpark1230@gmail.com)
 📬 For any inquiries or if you just want to chat, feel free to shoot me an email or connect with me on any social media!
