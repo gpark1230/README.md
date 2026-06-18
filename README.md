@@ -82,5 +82,6 @@ Building a full-scale enterprise cybersecurity environment that simulates a mode
 • Switching
 
 Email: [gpark1230@gmail.com](gpark1230@gmail.com)
+Linkedin: [My Linkedin](https://www.linkedin.com/in/gavinpark123/)
 
-📬 For any inquiries or if you just want to chat, feel free to shoot me an email or connect with me on any social media!
+📬 For any inquiries or if you just want to chat, feel free to shoot me an email or connect with me on linkedin!
