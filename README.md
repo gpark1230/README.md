@@ -36,6 +36,24 @@ Technologies include:
 ### Enterprise Identity & Access Management Lab
 Building a full-scale enterprise cybersecurity environment that simulates a modern organization's identity, cloud, and security infrastructure.
 
+Technologies include:
+
+• Microsoft Entra ID
+
+• Hybrid Active Directory
+
+• Azure IAM
+
+• AWS IAM
+
+• Okta (SSO, MFA, SCIM)
+
+• Microsoft Sentinel
+
+• PowerShell Automation
+
+• Zero Trust Architecture
+
 ## Technical Skills
 ### Identity & Security
 • Microsoft Entra ID
