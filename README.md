@@ -1,107 +1,92 @@
 # Hi there 👋 I'm Gavin 🏀
-Cybersecurity Professional | Identity & Access Management (IAM) | Cloud Security | Security Operations
+Backend Engineer | Python · FastAPI · PostgreSQL | APIs, Data Pipelines & Distributed Services
 
-I build enterprise cybersecurity labs that simulate real-world environments, focusing on Identity & Access Management (IAM), Microsoft Entra ID, Azure, Active Directory, PowerShell automation, SIEM, and cloud security.
+I build backend services in Python — REST APIs with real authentication, normalized relational
+schemas, ETL pipelines, and async services that talk to each other over queues.
 
-My goal is to become a Cloud Security and Identity Engineer by designing projects that mirror modern enterprise infrastructure and security operations.
+I came into backend engineering from the security side. While running an access review at an
+accounting firm, I found a service credential ten people were sharing. Instead of rotating it,
+I replaced the integration with an authenticated internal API — and that project is what moved
+me from IT into software engineering.
 
 ## 🙋🏻‍♂️ About Me
 🎓 B.A. in Computer Science, Business Minor, Boston University
-
-🛡️ Cybersecurity Operations Associate at KLCP
-
+💻 Software Engineer, Internal Applications at KLCP LLP
 🔒 CompTIA Security+
-
 ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
-
-🔄 Microsoft Identity and Access Administrator (SC-300) — In Progress
-
 📍 New York
+🔍 **Open to backend engineering roles — NYC or remote**
 
-I'm passionate about Identity Security, Cloud Security, and Security Engineering. I enjoy designing enterprise-scale environments that replicate how modern organizations manage identities, secure cloud infrastructure, and defend against cyber threats.
+I'm interested in the parts of backend work where correctness actually matters: authentication
+and access control, transactional integrity, idempotent retries, and knowing what your system
+does when a dependency is down. My security background is why I care about getting those right.
 
-I enjoy designing projects that combine Microsoft Entra ID, Active Directory, Azure, AWS, PowerShell automation, SIEM, and Zero Trust principles.
+## 🚀 Projects
 
-Technologies include:
-• Microsoft Entra ID
-• Hybrid Active Directory
-• Azure IAM
-• AWS IAM
-• Okta (SSO, MFA, SCIM)
-• Microsoft Sentinel
-• PowerShell Automation
-• Zero Trust Architecture
+### 🛡️ [IncidentDesk](https://github.com/gpark1230/incidentdesk) — Security Incident Tracking API
+A REST API for tracking security incidents, with a full audit trail.
+- 10+ endpoints in FastAPI with JWT authentication
+- 3-tier RBAC (viewer / analyst / admin) enforced server-side
+- Append-only audit logging with diff-based change tracking
+- Alembic migrations verified upgrade *and* downgrade in CI
+- PostgreSQL · SQLAlchemy · Docker · pytest · GitHub Actions · Railway
 
-## 🚧 Currently Building
-### Enterprise Identity & Access Management Lab
-Building a full-scale enterprise cybersecurity environment that simulates a modern organization's identity, cloud, and security infrastructure.
-
-Technologies include:
-
-• Microsoft Entra ID
-
-• Hybrid Active Directory
-
-• Azure IAM
-
-• AWS IAM
-
-• Okta (SSO, MFA, SCIM)
-
-• Microsoft Sentinel
-
-• PowerShell Automation
-
-• Zero Trust Architecture
+### 📡 [IncidentRelay](https://github.com/gpark1230/incidentrelay) — Async Notification Service
+A separately deployed worker service that consumes IncidentDesk events over a Redis queue.
+- Exponential-backoff retries (3 attempts, 10s/30s/90s) with idempotent attempt records
+- Token-bucket rate limiter implemented as an atomic Redis Lua script — no check-then-set race
+- Read-through cache with event-driven invalidation, measured at a 91.4% hit rate
+- Service-to-service auth with a least-privilege service account and cached JWTs
+- FastAPI · Redis · RQ · PostgreSQL · Docker · GitHub Actions · Railway
 
 ## 🛠️ Technical Skills
-### Identity & Security
-• Microsoft Entra ID
-• Microsoft Sentinel
-• CrowdStrike Falcon
-• Splunk
-• Wireshark
-• Nmap
-• OpenVAS
-• WireGuard
-• MITRE ATT&CK
-• NIST CSF
-• RBAC
-• MFA
-• Conditional Access
-• Identity Governance
-• Vulnerability Management
 
-### Cloud
-• Microsoft Azure
-• AWS
-• Microsoft 365
+### Backend
+- Python
+- FastAPI
+- REST API design
+- SQLAlchemy
+- Alembic
+- Pydantic
+- ETL pipeline design
+- Redis
+- RQ / task queues
+- Caching
+- Rate limiting
 
-### Operating Systems
-• Windows
-• Linux
-• macOS
+### Databases
+- PostgreSQL
+- Schema design
+- Relational modeling
+- Migrations
+- Indexing
 
-### Programming
-• Python
-• PowerShell
-• Bash
-• SQL
-• Java
-• C
+### Testing & Infrastructure
+- pytest
+- Fixtures & parametrized tests
+- Integration testing against live databases
+- Docker
+- Docker Compose
+- GitHub Actions
+- CI/CD
+- Linux
+- Git
 
-### Networking
-• TCP/IP
-• DNS
-• DHCP
-• VPN
-• Firewalls
-• Routing
-• Switching
+### Authentication & Security
+- OAuth2
+- JSON Web Tokens (JWT)
+- Role-based access control (RBAC)
+- Audit logging
+- Least privilege
+- MFA / SSO
+- Microsoft Entra ID
+- Secrets management
+
+### Languages
+- Python
+- SQL
+- Bash
 
 📬 Contact
-
-Email: [gpark1230@gmail.com](gpark1230@gmail.com)
-
-Linkedin: [My Linkedin](https://www.linkedin.com/in/gavinpark123/)
-
+Email: [gpark1230@gmail.com](mailto:gpark1230@gmail.com)
+LinkedIn: [My LinkedIn](https://www.linkedin.com/in/gavinpark123/)
